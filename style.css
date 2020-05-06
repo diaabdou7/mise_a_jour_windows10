@@ -1,0 +1,196 @@
+
+.sous_entete
+{    
+	border-bottom: solid 1px green; 
+}
+.ident
+{
+	border: 2px solid #ddd;
+	padding:5px;
+	background-color: #eee;
+
+
+
+}
+.icone
+{
+	background-color:white;
+	padding-bottom:10px;
+	height:40px;
+
+}
+
+input[type=text]
+{
+	width:150px;
+	height:15px;
+	border-radius: 10
+}
+
+
+footer
+{    
+	height:200px;
+	background-color: #B0C4DE;
+	width: 100%;
+}
+
+footer h3
+{
+	text-align:center;
+	color:white;
+	background-color:blue;
+}
+
+ input[type =text]
+{
+	border:2px solid #00FFFF;
+	border-radius:4px;
+	width:70%
+	padding:60px 60px;
+	margin:8px 0px;
+	box-sizing:border-box;
+	height:25px;
+	font-size: 22px;
+	color:#FF8C00;
+
+
+}
+
+textarea{
+	width:100%;
+	height:150px;
+	height:150px;
+	padding:12px 12px;
+	box-sizing:border-box;
+	border:2px solid #00FFFF;
+	background-color: #A9A9A9;
+	resize:none;
+}
+
+input[type=button]
+{
+	background-color: #A52A2A;
+	border:none;
+	color:white;
+	padding:10px 15px;
+	text-decoration: none;
+	margin:4px 2px;
+	cursor:pointer;
+}
+
+form
+{
+}
+h4
+{
+	color:red;
+	font-style:italic;
+}
+
+.messenger
+{
+	width:60;
+	height:auto;
+	background-color: white;
+	transition:width 2s;
+
+}
+
+.messenger:hover
+{ width:100px;background-color:blue; }
+
+.face
+{
+	width:40;
+	height:auto;
+	background-color: white;
+	transition:width 2s;
+
+}
+
+.face:hover
+{ width:100px;background-color:blue; }
+.in
+{
+	width:37;
+	height:auto;
+	background-color: white;
+	transition:width 2s;
+
+}
+
+.in:hover
+{ width:100px;background-color:blue; }
+
+.twitter
+{
+	width:37;
+	height:auto;
+	background-color: white;
+	transition:width 2s;
+
+}
+
+.twitter:hover
+{ width:100px;background-color:blue; }
+
+.whatsapp
+{
+	width:37;
+	height:auto;
+	background-color: white;
+	transition:width 2s;
+
+}
+
+.whatsapp:hover
+{ width:100px;background-color:blue; }
+
+.pint
+{
+	width:37;
+	height:auto;
+	background-color: white;
+	transition:width 2s;
+
+}
+
+.pint:hover
+{ width:100px;background-color:blue; }
+
+span
+{
+	color:red;
+}
+.foncer
+{
+	color:black;
+	font-size: 17px;
+	font-style:normal;
+	font-weight:bold;
+
+
+}
+#haut
+{
+	position:fixed;
+	width:20px;
+	height:15px;
+	bottom:50px;
+	right:15px;
+	font-size: 15px;
+
+	
+
+}
+input[type="button"]
+{
+	background-color:red;
+}
+
+body
+{
+	background-color: #778899;
+}
+
